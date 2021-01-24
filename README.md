@@ -17,7 +17,7 @@ There are four questions I am expecting to find answers:
 Two data sets (Listings and Calendar) are used, and the data were scraped on 05/11/20</p>
 
 <strong>4. Results</strong>
-<p>The main findings of the code can be found at the post available here <a href="https://shelbytu22.medium.com/this-melbourne-airbnb-dataset-tells-4-things-effaeee2f4bf">https://shelbytu22.medium.com/this-melbourne-airbnb-dataset-tells-4-things-effaeee2f4bf</a>.</p>
+<p>The main findings of the code can be found at the post available here <a href="https://shelbytu22.medium.com/this-melbourne-airbnb-dataset-tells-4-things-effaeee2f4bf">here</a>.</p>
 
 <strong>5. Licensing, Authors, Acknowledgements</strong>
 <p>Thanks for Airbnb making their data available to public. You can find the Licensing for the data and other descriptive information on <a href="http://insideairbnb.com/get-the-data.html" target="_blank">http://insideairbnb.com/get-the-data.html</a>.</p>
