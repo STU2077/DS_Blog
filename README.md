@@ -13,7 +13,8 @@ There are four questions I am expecting to find answers:
 <p>Q4: How do price and review scores affect rental properties?</p>
 
 <strong>3. File Descriptions</strong>
-<p>A notebook is available here to showcase work related to the above questions. Each cell has a sentence at the top for describing the purpose of the code.</p>
+<p>A notebook is available here to showcase work related to the above questions. Each cell has a sentence at the top for describing the purpose of the code.
+Two data sets (Listings and Calendar) are used, and the data were scraped on 05/11/20</p>
 
 <strong>4. Results</strong>
 <p>The main findings of the code can be found at the post available here.</p>
