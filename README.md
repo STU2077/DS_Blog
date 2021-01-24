@@ -1,7 +1,6 @@
-1. <strong>Installation</strong>
+<strong>1. Installation</strong>
 <p>There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.</p>
-
-2. <strong>Project Motivation</strong>
+<strong>2. Project Motivation</strong>
 <p>Due to Covid-19 outbreak, tourism, hospitality, and real estate industries were struggled.
 <br/>
 In order to stimulate the economy, AU government offered great benefits for property investors. I am interested to find out insights to support an investing idea through the Melbourne’s Airbnb data.
@@ -13,11 +12,11 @@ There are four questions I am expecting to find answers:
 <p>Q3: What type of property should I invest in?</p>
 <p>Q4: How do price and review scores affect rental properties?</p>
 
-3. <strong>File Descriptions</strong>
+<strong>3. File Descriptions</strong>
 <p>A notebook is available here to showcase work related to the above questions. Each cell has a sentence at the top for describing the purpose of the code.</p>
 
-4. <strong>Results</strong>
+<strong>4. Results</strong>
 <p>The main findings of the code can be found at the post available here.</p>
 
-<strong>Licensing, Authors, Acknowledgements</strong>
+<strong>5. Licensing, Authors, Acknowledgements</strong>
 <p>Thanks for Airbnb making their data available to public. You can find the Licensing for the data and other descriptive information on <a href="http://insideairbnb.com/get-the-data.html" target="_blank">http://insideairbnb.com/get-the-data.html</a>.</p>
